@@ -1,0 +1,2 @@
+# AtomScripting
+Aton Editor Scripting
